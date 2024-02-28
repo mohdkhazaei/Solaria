@@ -1,0 +1,13 @@
+C:\Users\mohd2\OneDrive\Documents\Solaria Project\Solaria\Solaria\bin\Release\net6.0-windows\publish\Solaria.exe
+C:\Users\mohd2\OneDrive\Documents\Solaria Project\Solaria\Solaria\bin\Release\net6.0-windows\publish\Solaria.dll
+C:\Users\mohd2\OneDrive\Documents\Solaria Project\Solaria\Solaria\bin\Release\net6.0-windows\publish\Solaria.deps.json
+C:\Users\mohd2\OneDrive\Documents\Solaria Project\Solaria\Solaria\bin\Release\net6.0-windows\publish\Solaria.runtimeconfig.json
+C:\Users\mohd2\OneDrive\Documents\Solaria Project\Solaria\Solaria\bin\Release\net6.0-windows\publish\Solaria.pdb
+C:\Users\mohd2\OneDrive\Documents\Solaria Project\Solaria\Solaria\bin\Release\net6.0-windows\publish\Dapper.dll
+C:\Users\mohd2\OneDrive\Documents\Solaria Project\Solaria\Solaria\bin\Release\net6.0-windows\publish\Newtonsoft.Json.dll
+C:\Users\mohd2\OneDrive\Documents\Solaria Project\Solaria\Solaria\bin\Release\net6.0-windows\publish\System.Data.SqlClient.dll
+C:\Users\mohd2\OneDrive\Documents\Solaria Project\Solaria\Solaria\bin\Release\net6.0-windows\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\mohd2\OneDrive\Documents\Solaria Project\Solaria\Solaria\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\sni.dll
+C:\Users\mohd2\OneDrive\Documents\Solaria Project\Solaria\Solaria\bin\Release\net6.0-windows\publish\runtimes\win-x86\native\sni.dll
+C:\Users\mohd2\OneDrive\Documents\Solaria Project\Solaria\Solaria\bin\Release\net6.0-windows\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mohd2\OneDrive\Documents\Solaria Project\Solaria\Solaria\bin\Release\net6.0-windows\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

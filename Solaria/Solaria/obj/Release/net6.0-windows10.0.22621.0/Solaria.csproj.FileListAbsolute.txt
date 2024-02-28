@@ -1,0 +1,8 @@
+C:\Users\mohd2\Documents\Solaria\Solaria Project\Solaria\Solaria\obj\Release\net6.0-windows10.0.22621.0\Solaria.csproj.AssemblyReference.cache
+C:\Users\mohd2\Documents\Solaria\Solaria Project\Solaria\Solaria\obj\Release\net6.0-windows10.0.22621.0\Solaria.Form1.resources
+C:\Users\mohd2\Documents\Solaria\Solaria Project\Solaria\Solaria\obj\Release\net6.0-windows10.0.22621.0\Solaria.Properties.Resources.resources
+C:\Users\mohd2\Documents\Solaria\Solaria Project\Solaria\Solaria\obj\Release\net6.0-windows10.0.22621.0\Solaria.csproj.GenerateResource.cache
+C:\Users\mohd2\Documents\Solaria\Solaria Project\Solaria\Solaria\obj\Release\net6.0-windows10.0.22621.0\Solaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohd2\Documents\Solaria\Solaria Project\Solaria\Solaria\obj\Release\net6.0-windows10.0.22621.0\Solaria.AssemblyInfoInputs.cache
+C:\Users\mohd2\Documents\Solaria\Solaria Project\Solaria\Solaria\obj\Release\net6.0-windows10.0.22621.0\Solaria.AssemblyInfo.cs
+C:\Users\mohd2\Documents\Solaria\Solaria Project\Solaria\Solaria\obj\Release\net6.0-windows10.0.22621.0\Solaria.csproj.CoreCompileInputs.cache

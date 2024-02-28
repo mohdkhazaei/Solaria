@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solaria", "Solaria\Solaria.csproj", "{A9E3E85E-D15D-42BA-82BA-F83EA2E4957C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E3E85E-D15D-42BA-82BA-F83EA2E4957C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E3E85E-D15D-42BA-82BA-F83EA2E4957C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E3E85E-D15D-42BA-82BA-F83EA2E4957C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E3E85E-D15D-42BA-82BA-F83EA2E4957C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7A67FA8-D9EF-4A2C-8A86-C5484D83341A}
+	EndGlobalSection
+EndGlobal

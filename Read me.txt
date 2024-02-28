@@ -1,0 +1,33 @@
+# Solaria Project README
+
+Welcome to the Solaria project! This README file will guide you on how to open the project files in Visual Studio, Visual Studio Code, or any other code editor of your choice.
+
+
+
+## Opening the Entire Project in Visual Studio
+
+To open the entire project in Visual Studio, locate and open the `Solaria.sln` file. This file will load the entire solution, including all projects and dependencies, into Visual Studio.
+
+Please ensure that you have .NET Core 6.0 installed on your system, and use Visual Studio 2022 for the best experience.
+
+Note that while you can open the project and explore its structure, you will not be able to run the application. The app depends on a database connection, and the server is configured to work locally on my laptop only. Therefore, the app will not function on any other machine.
+
+
+
+
+## Opening Just the Code in Visual Studio Code or Any Other Editor
+
+If you prefer to open just the code I've written in Visual Studio Code or any other code editor, navigate to the `Form1.cs` and `weatherInfo.cs` files and open them in your preferred editor. This will allow you to view and edit the code without loading the entire solution.
+
+
+
+
+## Facing Issues?
+
+If you face any issues while viewing or editing the code, please don't hesitate to reach out to me via email,
+I'll be more than happy to assist you with any concerns or questions you may have.
+
+
+#find my uni email
+
+Student ref. 10769575
