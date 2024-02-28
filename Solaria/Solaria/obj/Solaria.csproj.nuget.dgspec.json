@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohd2\\Documents\\Solaria\\Solaria Project\\Solaria\\Solaria\\Solaria.csproj": {}
+    "C:\\Users\\mohd2\\Documents\\CompSoc\\Repo-clone\\Solaria\\Solaria\\Solaria\\Solaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohd2\\Documents\\Solaria\\Solaria Project\\Solaria\\Solaria\\Solaria.csproj": {
+    "C:\\Users\\mohd2\\Documents\\CompSoc\\Repo-clone\\Solaria\\Solaria\\Solaria\\Solaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohd2\\Documents\\Solaria\\Solaria Project\\Solaria\\Solaria\\Solaria.csproj",
+        "projectUniqueName": "C:\\Users\\mohd2\\Documents\\CompSoc\\Repo-clone\\Solaria\\Solaria\\Solaria\\Solaria.csproj",
         "projectName": "Solaria",
-        "projectPath": "C:\\Users\\mohd2\\Documents\\Solaria\\Solaria Project\\Solaria\\Solaria\\Solaria.csproj",
+        "projectPath": "C:\\Users\\mohd2\\Documents\\CompSoc\\Repo-clone\\Solaria\\Solaria\\Solaria\\Solaria.csproj",
         "packagesPath": "C:\\Users\\mohd2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohd2\\Documents\\Solaria\\Solaria Project\\Solaria\\Solaria\\obj\\",
+        "outputPath": "C:\\Users\\mohd2\\Documents\\CompSoc\\Repo-clone\\Solaria\\Solaria\\Solaria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
